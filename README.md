@@ -1,7 +1,7 @@
 # SphereLighting
+Made using the beautiful Pyxel retro game engine by Takashi Kitao
+https://github.com/kitao/pyxel
 
-<a href="https://github.com/kitao/pyxel/blob/master/pyxel/examples/01_hello_pyxel.py" target="_blank">
-<img src="https://github.com/ottolindstam/SphereLighting/blob/master/pyxel-191009-141748.gif" width="100%">
+<a href="https://github.com/ottolindstam/SphereLighting/blob/master/SphereLit.py" target="_blank">
+<img src="https://github.com/ottolindstam/SphereLighting/blob/master/pyxel-191009-141748.gif" width="48%">
 </a>
-
-https://github.com/ottolindstam/SphereLighting/blob/master/pyxel-191009-141748.gif
