@@ -1,5 +1,5 @@
 # SphereLighting
-Made using the beautiful Pyxel retro game engine by Takashi Kitao
+Made using the beautiful Pyxel retro game engine by Takashi Kitao @kitao
 https://github.com/kitao/pyxel
 
 <a href="https://github.com/ottolindstam/SphereLighting/blob/master/SphereLit.py" target="_blank">
