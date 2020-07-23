@@ -247,7 +247,7 @@ class SphereApp(object):
         pyxel.cls(BG_COL)  # Clear screen
         for point in self.my_sphere.vectors:
             px_out = point + ORIGIN
-            pyxel.pix(px_out.x, px_out.y, px_out.b)
+            pyxel.pset(px_out.x, px_out.y, px_out.b)
         self.draw_hud()
         pyxel.flip() # Progress pyxel
 
